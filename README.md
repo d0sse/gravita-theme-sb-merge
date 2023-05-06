@@ -1,4 +1,4 @@
-# Theme - Manjaro (for Sublime Merge)
+# Theme - Gravita (for Sublime Merge)
 
 [Gravita](https://github.com/d0sse/gravita-theme-sb-merge) theme for Sublime Merge 2 based on based on [Gravity](https://github.com/frankyonnetti/gravity-sublime-theme) and [Manjaro](https://github.com/asapdotid/manjaro-theme-sb-merge).
 
