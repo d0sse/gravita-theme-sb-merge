@@ -10,10 +10,10 @@ Assuming the required color scheme is installed, git clone the project or downlo
 folder as `Manjaro Theme`.
 
 ```bash
-git clone https://github.com/asapdotid/gravita-theme-sb-merge.git Manjaro\ Theme
+git clone git@github.com:d0sse/gravita-theme-sb-merge.git Gravita
 ```
 
-Edit your merge `Preferences.sublime-settings` file to use the Mariana theme:
+Edit your merge `Preferences.sublime-settings` file to use the Gravita theme:
 
 ```json
     "theme": "Gravita.sublime-theme"
