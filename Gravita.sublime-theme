@@ -1,0 +1,6 @@
+{
+    "name": "Gravita",
+    "extends": "Gravita.hidden-theme",
+    "variables": {},
+    "rules": []
+}
