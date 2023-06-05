@@ -27,7 +27,7 @@
     "selection": "color(var(foreground) l(95%) a(18%))", //#f4f4f430
     "comment": "color(var(foreground) a(43%))", //#ffffff70
     "line-highlight": "color(var(foreground) l(95%) a(7%))", // #f4f4f414
-    "accent": "var(orange)",
+    "accent": "var(purple_light)",
     // UI elements derived from color schemes
     "caret": "var(foreground)",
     "block-caret": "var(foreground)",
@@ -54,7 +54,7 @@
     "line_highlight": "color(var(foreground) l(95%) a(2%))", //#f4f4f407
     "misspelling": "var(red)",
     "fold_marker": "var(foreground)",
-    "accent": "var(orange)",
+    "accent": "var(purple_light)",
     "gutter": "",
     "gutter_foreground": "var(selection)",
     "line_diff_added": "color(var(green) a(25%))", //#a3ce9e40
