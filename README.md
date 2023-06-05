@@ -7,8 +7,11 @@ The Sublime Merge Theme as a template with the Gravity color palette.
 ## Install
 
 Assuming the required color scheme is installed, git clone the project or download it into your Sublime Merge `Packages`
-folder as `Manjaro Theme`.
+folder as `Gravita`.
 
+```bash
+cd ~/Library/Application\ Support/Sublime\ Merge/Packages/
+```
 ```bash
 git clone git@github.com:d0sse/gravita-theme-sb-merge.git Gravita
 ```
