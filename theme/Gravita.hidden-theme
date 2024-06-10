@@ -274,13 +274,13 @@
             "layer3.opacity": 0.0,
             "layer2.opacity": 0.0,
             "layer2.draw_center": false,
-            "layer2.inner_margin": [0, 0, 0, 1],
+            "layer2.inner_margin": [0, 0, 0, 2],
             "layer2.tint": "var(--accent)"
         },
         {
             "class": "tab_control",
             "attributes": ["hover"],
-            "layer2.opacity": 0.5
+            "layer2.opacity": 0.4
         },
         {
             "class": "tab_control",
@@ -297,7 +297,7 @@
             "class": "tab",
             "layer0.tint": "var(--background)",
             "layer2.draw_center": false,
-            "layer2.inner_margin": [0, 0, 0, 1],
+            "layer2.inner_margin": [0, 0, 0, 2],
             "layer2.tint": "var(--accent)",
             "layer2.opacity": 0.0
         },

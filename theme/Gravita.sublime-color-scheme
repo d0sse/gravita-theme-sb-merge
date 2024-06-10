@@ -3,6 +3,7 @@
   "author": "d0sse",
   "comments": "Sublime Merge Theme based on Gravity",
   "variables": {
+    "accent_color" : "#b040b9",
     "red": "hsl(357.73, 79.518%, 67.451%)", //#ee6a6f
     "yellow": "hsl(33.377, 93.789%, 68.431%)", //#fab763
     "green": "hsl(113.75, 32.877%, 71.373%)", //#a3ce9e
@@ -27,7 +28,7 @@
     "selection": "color(var(foreground) l(95%) a(18%))", //#f4f4f430
     "comment": "color(var(foreground) a(43%))", //#ffffff70
     "line-highlight": "color(var(foreground) l(95%) a(7%))", // #f4f4f414
-    "accent": "var(purple_light)",
+    "accent": "var(accent_color)",
     // UI elements derived from color schemes
     "caret": "var(foreground)",
     "block-caret": "var(foreground)",
