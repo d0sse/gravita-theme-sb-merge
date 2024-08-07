@@ -26,7 +26,7 @@ Edit your merge `Preferences.sublime-settings` file to use the Gravita theme:
 
 Gravita
 
-![cool](screenshots/gravita.png "Gravita")
+![cool](screenshots/gravita2.png "Gravita")
 
 ## License
 
