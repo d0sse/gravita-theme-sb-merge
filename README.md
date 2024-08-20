@@ -1,6 +1,6 @@
 # Theme - Gravita (for Sublime Merge)
 
-Gravita theme for Sublime Merge 2 based on based on [Gravity](https://github.com/frankyonnetti/gravity-sublime-theme) and [Manjaro](https://github.com/asapdotid/manjaro-theme-sb-merge).
+Gravita theme for Sublime Merge 2 based on [Gravity](https://github.com/frankyonnetti/gravity-sublime-theme) and [Manjaro](https://github.com/asapdotid/manjaro-theme-sb-merge).
 
 The Sublime Merge Theme as a template with the Gravity color palette.
 
@@ -26,7 +26,7 @@ Edit your merge `Preferences.sublime-settings` file to use the Gravita theme:
 
 Gravita
 
-![cool](screenshots/gravita.png "Gravita")
+![cool](screenshots/gravita2.png "Gravita")
 
 ## License
 
