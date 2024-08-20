@@ -3,7 +3,7 @@
   "author": "d0sse",
   "comments": "Sublime Merge Theme based on Gravity",
   "variables": {
-    "accent_color" : "#b040b9",
+    "accent_color" : "rgb(220, 133, 48)",
     "red": "hsl(357.73, 79.518%, 67.451%)", //#ee6a6f
     "yellow": "hsl(33.377, 93.789%, 68.431%)", //#fab763
     "green": "hsl(113.75, 32.877%, 71.373%)", //#a3ce9e
@@ -55,7 +55,7 @@
     "line_highlight": "color(var(foreground) l(95%) a(2%))", //#f4f4f407
     "misspelling": "var(red)",
     "fold_marker": "var(foreground)",
-    "accent": "var(purple_light)",
+    "accent": "var(orange)",
     "gutter": "",
     "gutter_foreground": "var(selection)",
     "line_diff_added": "color(var(green) a(25%))", //#a3ce9e40
