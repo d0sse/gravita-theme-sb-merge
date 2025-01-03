@@ -35,3 +35,5 @@ MIT / BSD
 ## Author Information
 
 This code was created in 2023 by [d0sse](https://github.com/d0sse) based on [Gravity](https://github.com/frankyonnetti/gravity-sublime-theme) and [Manjaro](https://github.com/asapdotid/manjaro-theme-sb-merge).
+
+😈
